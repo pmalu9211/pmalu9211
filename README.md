@@ -4,8 +4,6 @@
   <img src="https://profile-counter.glitch.me/pmalu9211/count.svg?" />
 </div>
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
 ## Connect with me
 
 <div align="left">
