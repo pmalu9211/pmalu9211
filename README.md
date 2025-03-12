@@ -1,8 +1,5 @@
 # Prathamesh Malu
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pmalu9211/count.svg?" />
-</div>
 
 ## Connect with me
 
